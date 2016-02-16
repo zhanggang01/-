@@ -4,6 +4,6 @@ using std::cout;
 uisng std::endl;
 int main(
 {
-  cout<<"Hello world!"<<endl;
+  cout<<"Hello,zhang mengyi!"<<endl;
   return 0;
 }
